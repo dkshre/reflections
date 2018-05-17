@@ -30,4 +30,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    PHAwebadmin changes in controller with differnt version
+    PHAwebadmin changes in controller with differnt version.
+    All all my local coding projects.
